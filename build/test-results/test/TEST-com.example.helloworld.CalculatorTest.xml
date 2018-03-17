@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.helloworld.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-17T06:40:10" hostname="Brandons-Mac.local" time="0.002">
+<testsuite name="com.example.helloworld.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-17T06:57:16" hostname="Brandons-Mac.local" time="0.002">
   <properties/>
   <testcase name="testSum" classname="com.example.helloworld.CalculatorTest" time="0.001"/>
   <testcase name="testSubtract" classname="com.example.helloworld.CalculatorTest" time="0.0"/>
